@@ -181,7 +181,7 @@ nav ul li a{
 }
 
 #changing-background{
-      padding-top: 2rem;
+      padding-top: 4.5rem;
       overflow: hidden;
       transition: .3s;
 }
@@ -303,7 +303,7 @@ footer{
             position: fixed;
             width: 50%;
             height: 100vh;
-            background-color: rgb(19, 33, 191);
+            background-color: rgba(11, 22, 140, 0.656);
             top: 50px;
             right: -100%;
             text-align: center;
@@ -429,7 +429,7 @@ footer{
       }
 
       footer{
-            margin: 5rem 1rem 3rem 1rem;
+            margin: 0 1rem 1rem 1rem;
       }
 
       .footer-description{
